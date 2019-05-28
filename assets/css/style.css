@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%
+}
+
+header {
+    font-family: 'Cute Font', cursive;
+    font-size: 80px
+}
+
+.bgpaint {
+    background-image: url(../images/whitepaint.jpg);
+    min-height: 800px;
+    height: 100%
+}
+
+.spectrum {
+    background-image: url(../images/spectrum.jpg)
+}
+.inputForm{
+    width: 300px
+}
+
+.purple{
+    background-color: purple;
+    color: white
+}
+
+.purple:hover {
+    background-color: rebeccapurple;
+    color: white
+}
+
+.fullwidth {
+    width: 100%
+}

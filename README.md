@@ -2,6 +2,10 @@
 
 Thank you for looking at my GIF and OMDB page!
 
+The goal of this page was to help learn the basic understanding of API calls, along with learning AJAX from jQuery.
+
+## https://vilagen.github.io/api/
+
 This page was designed in mind as a way to look up
 gifs from Giphy's website. Ideally, TV shows and
 movies are what were in mind when initially created, 
